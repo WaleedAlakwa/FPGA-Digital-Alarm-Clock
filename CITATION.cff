@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project in academic or research work, please cite this repository."
+title: "FPGA Digital Alarm Clock"
+type: software
+authors:
+  - family-names: "Alakwa"
+    given-names: "Waleed"
+repository-code: "https://github.com/WaleedAlakwa/FPGA-Digital-Alarm-Clock"
+url: "https://github.com/WaleedAlakwa/FPGA-Digital-Alarm-Clock"
+license: MIT
